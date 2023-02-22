@@ -21,4 +21,4 @@ Support
 If you have any questions or issues, please contact our support team at [insert support email].
 License
 
-This project is licensed under the MIT license - see the LICENSE.md file for details.
+This project is licensed under the MIT license - see the [LICENSE.md](LICENSE.md) file for details.
